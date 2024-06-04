@@ -11,8 +11,8 @@ Pick picking examples in Python currently using Python 3.12
 
 There are notebooks for different peak picking libraries:
 
-1. findpeaks: Peak picking algorithms and more
-2. scipy: Peak picking and smoothing algorithms 
+1. [findpeaks](/code/01_find_peaks.ipynb): Peak picking algorithms and more
+2. [scipy](/code/02_scipy_find_peaks.ipynb): Peak picking and smoothing algorithms 
 
 
 ## Additional Resources
